@@ -1,10 +1,10 @@
-### Olá! eu sou a Camilla👋
+### Hi there! My name is Camilla👋
 
-
-- 🌱 Atualmente sou estudante de Analise.D.Sistemas - IFPI
-- 💬 Aprendendo Java
-- 😄 Pronomes: ela/dela
-- ✨ Idade: 18 anos
+- 🎓Systems Analysis and Development Student - @<a href="https://www.ifpi.edu.br/picos">IFPI</a></li>
+- 💻 Software Engineer
+- 💬 I’m currently learning Angular and Java
+- 😄 Pronouns: she/her
+- ✨ Age: 18 years old
 
 ## 🛠 
 <div>
