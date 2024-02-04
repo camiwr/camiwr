@@ -1,5 +1,6 @@
 ### Hi there! My name is Camilla👋
 
+ <img align="right" width="450" height="253" src="./assets/progamming.gif" alt="Imagem">
 - 🎓Systems Analysis and Development Student - @<a href="https://www.ifpi.edu.br/picos">IFPI</a></li>
 - 💻 Software Engineer
 - 💬 I’m currently learning Angular and Java
