@@ -1,16 +1,25 @@
-### Hi there! My name is Camilla👋
+### <p align="center"> Hi there! My name is Camilla👋 </p>
 
- <img align="right" width="450" height="253" src="./assets/progamming.gif" alt="Imagem">
-- 🎓Systems Analysis and Development Student - @<a href="https://www.ifpi.edu.br/picos">IFPI</a></li>
-- 💻 Software Engineer
+ 
+<div id="about-me">
+  <img align="right" width="38%" height="auto" src="./assets/img/progamming.gif" alt="Imagem">
+ 
+- 🎓Systems Analysis and Development Student - <a href="https://www.ifpi.edu.br/picos">IFPI</a></li>
+- 💻 Software developer
 - 💬 I’m currently learning Angular and Java
 - 😄 Pronouns: she/her
 - ✨ Age: 18 years old
+- 🐈 Love cats and coffee
+
+</div>
 
 ## 🛠 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiwr&show_icons=true&theme=radical">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiwr&layout=compact&theme=dark">
+<div align="center">
+
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=camiwr&theme=dark&hide_border=false) ![camiwr's Stats](https://github-readme-stats.vercel.app/api?username=camiwr&theme=tokyonight&hide_icons=true&hide_border=true&count_private=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camiwr&theme=dark&hide_border=false)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camiwr&theme=dark&hide_border=false)
 
 
 <div style="display: inline_block"><br>
