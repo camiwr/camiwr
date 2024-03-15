@@ -6,10 +6,11 @@
  
 - 🎓Systems Analysis and Development Student - <a href="https://www.ifpi.edu.br/picos">IFPI</a></li>
 - 💻 Software developer
-- 💬 I’m currently learning Angular and Java
+- 💬 I’m currently learning Front-end and Java
 - 😄 Pronouns: she/her
+- 🇧🇷 From Brasil - PI
 - ✨ Age: 18 years old
-- 🐈 Love cats and coffee
+
 
 </div>
 
