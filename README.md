@@ -1,4 +1,4 @@
-### <p align="center"> Hi there! My name is Camilla👋 </p>
+### <p align="center"> Hi there!👋 </p>
 
  
 <div id="about-me">
@@ -6,9 +6,8 @@
  
 - 🎓Systems Analysis and Development Student - <a href="https://www.ifpi.edu.br/picos">IFPI</a></li>
 - 💻 Software developer
-- 💬 I’m currently learning Front-end and Java
 - 😄 Pronouns: she/her
-- 🇧🇷 From Brasil - PI
+- 🇧🇷 From Brasil
 - ✨ Age: 18 years old
 
 
