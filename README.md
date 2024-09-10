@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=5DB766&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+there!+I'm+Camilla+Welcome+to+my+Profile!" align="middle" alt=" I'm Camilla Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=5DB766&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+there!+Welcome+to+my+Profile!" align="middle" alt=" Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 
