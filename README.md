@@ -6,7 +6,7 @@
  
 ### Welcome to my GitHub!
    
-#### Hello, my name is Camilla, I'm a student of Systems Analysis and Development (ADS) in Federal Institute of Piauí - <a href="https://www.ifpi.edu.br/picos">IFPI</a>, currently i'm focused on developing my skills in programming. Feel free to take a look at my repositories and projects.
+#### Hello, my name is Camilla, I'm a student of Systems Analysis and Development(ADS) in Federal Institute of Piauí - <a href="https://www.ifpi.edu.br/picos">IFPI</a>, currently i'm focused on developing my skills in programming. Feel free to take a look at my repositories and projects.
 </div>
 
 <img  src="assests/borderseperator.gif">
