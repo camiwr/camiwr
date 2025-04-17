@@ -63,6 +63,12 @@
 
 </table>
 
+<div align="center">
+  <br>
+    <p align="center" style="color:#CFD304;"><strong>Quantidade de visitas:</strong></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{camiwr}/count.svg" /></p> 
+  </ br>
+</div>
 
 ## 📲 Contacts:
 
